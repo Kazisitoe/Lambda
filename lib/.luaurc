@@ -1,0 +1,8 @@
+{
+    "languageMode": "nocheck",
+    "lint": {
+        "*": true,
+        "UnknownType": false
+    },
+    "lintErrors": false
+}

@@ -1,0 +1,8 @@
+[package]
+name = "kazi/lambda"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["lambda.lua", "tempSymbols.lua"]
+
+[dependencies]

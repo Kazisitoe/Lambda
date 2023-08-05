@@ -1,0 +1,12 @@
+{
+    "name": "lambda",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "lib": {
+                "$path": "lib"
+            }
+        }
+    }
+}
